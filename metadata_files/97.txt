@@ -1,0 +1,63 @@
+# 97
+
+[Personal Information]
+Student First Name: Jodi
+Student Last Name: Mitchell
+Student ID/Number: 15268442
+Email Address: bcarlson@example.org
+Username: christopher09
+Age: 19
+Grade/year level: Junior
+Class section: A
+School/institution name: Johnson-Sloan
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 843
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 104
+Course Code: ART101
+Professor Name: Dr. Martin
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 192
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Fear just rule build serious.
+Submission Date: 2025-04-12
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A surrealist artwork combining dream-like imagery with unexpected juxtapositions, showcasing depth, texture, and a complex play of light and shadow., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 834359104
+Inference Steps: 56
+Guidance Scale: 6.1
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 7.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 97.png
+File Format: PNG
+File size: 227577 bytes
+Image dimensions: 512x768

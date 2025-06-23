@@ -1,0 +1,63 @@
+# 59
+
+[Personal Information]
+Student First Name: Amber
+Student Last Name: Ramirez
+Student ID/Number: 92425190
+Email Address: dsanders@example.net
+Username: bethanyhill
+Age: 18
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Morgan-Thompson
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 882
+Operating System: Windows 10
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Computer Science 105
+Course Code: ART101
+Professor Name: Dr. Wilson
+Semester: Fall
+Academic Year: 2023-2024
+Room Number: 185
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: If receive game half material.
+Submission Date: 2025-02-28
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a watercolor drawing of a face with no detail., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 546714416
+Inference Steps: 93
+Guidance Scale: 7.0
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.0
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 59.png
+File Format: PNG
+File size: 383575 bytes
+Image dimensions: 512x768

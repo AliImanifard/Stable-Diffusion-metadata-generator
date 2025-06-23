@@ -1,0 +1,63 @@
+# 25
+
+[Personal Information]
+Student First Name: Sara
+Student Last Name: Middleton
+Student ID/Number: 28113362
+Email Address: peter48@example.com
+Username: christopher25
+Age: 23
+Grade/year level: Senior
+Class section: C
+School/institution name: Davis PLC
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 30
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 103
+Course Code: MATH101
+Professor Name: Dr. Thompson
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 138
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Computer beyond western sense third.
+Submission Date: 2025-03-21
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: ((black and white pencil drawing)), Generate a pencil sketch of a library with five people: two sitting at a table, one standing by a bookshelf, and two walking in the background. Goal: Train to generate complex, crowded scenes. , black and white, breathtaking pencil illustration, highly detailed, 4k, (textured paper), pencil texture, sketch
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 231061111
+Inference Steps: 81
+Guidance Scale: 5.3
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 5.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 25.png
+File Format: PNG
+File size: 441474 bytes
+Image dimensions: 512x768

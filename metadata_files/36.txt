@@ -1,0 +1,63 @@
+# 36
+
+[Personal Information]
+Student First Name: Dana
+Student Last Name: Hill
+Student ID/Number: 94206167
+Email Address: aguirredana@example.org
+Username: vpena
+Age: 18
+Grade/year level: Senior
+Class section: C
+School/institution name: Acevedo-Sanders
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 460
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: CS101
+Professor Name: Dr. Harris
+Semester: Summer
+Academic Year: 2024-2025
+Room Number: 233
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Here professor others environmental.
+Submission Date: 2025-04-01
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a colored pencil of a small section of a library, featuring two people sitting at a table and one person walking by. Include bookshelves in the background.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 587305597
+Inference Steps: 92
+Guidance Scale: 9.4
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 9.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 36.png
+File Format: PNG
+File size: 419323 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 52
+
+[Personal Information]
+Student First Name: Karen
+Student Last Name: Velazquez
+Student ID/Number: 38328248
+Email Address: marktaylor@example.com
+Username: montgomerydavid
+Age: 20
+Grade/year level: Freshman
+Class section: B
+School/institution name: Khan and Sons
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 867
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 103
+Course Code: CS101
+Professor Name: Dr. Wilson
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 132
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Movie push computer teacher race.
+Submission Date: 2025-04-07
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a watercolor drawing of a simple still life: a bowl with two apples inside. Use bold, dark strokes for shadows and soft strokes for highlights., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 933129811
+Inference Steps: 79
+Guidance Scale: 8.8
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 6.2
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 52.png
+File Format: PNG
+File size: 413326 bytes
+Image dimensions: 512x768

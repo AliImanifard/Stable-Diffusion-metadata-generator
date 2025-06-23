@@ -1,0 +1,63 @@
+# 54
+
+[Personal Information]
+Student First Name: Stephanie
+Student Last Name: Baldwin
+Student ID/Number: 20368128
+Email Address: riley16@example.net
+Username: julie30
+Age: 18
+Grade/year level: Junior
+Class section: C
+School/institution name: Scott Ltd
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 383
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 104
+Course Code: CS101
+Professor Name: Dr. Jackson
+Semester: Spring
+Academic Year: 2024-2025
+Room Number: 176
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Myself hot attention image baby among.
+Submission Date: 2025-04-10
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a watercolor drawing of a simple still life: a bowl with two apples inside. Use bold, dark strokes for shadows and soft strokes for highlights., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 669761566
+Inference Steps: 39
+Guidance Scale: 5.2
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 9.8
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 54.png
+File Format: PNG
+File size: 347909 bytes
+Image dimensions: 512x768

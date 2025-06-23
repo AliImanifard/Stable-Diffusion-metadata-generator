@@ -1,0 +1,63 @@
+# 74
+
+[Personal Information]
+Student First Name: Nicole
+Student Last Name: Harris
+Student ID/Number: 91303667
+Email Address: cathy25@example.org
+Username: cassandrataylor
+Age: 23
+Grade/year level: Sophomore
+Class section: B
+School/institution name: Thompson Group
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 300
+Operating System: Windows 10
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 105
+Course Code: ART101
+Professor Name: Dr. Davis
+Semester: Summer
+Academic Year: 2024-2025
+Room Number: 129
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Imagine land check.
+Submission Date: 2025-03-09
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: breathtaking oil painting, Generate an oil painting of a male face fully different colored clothes in profile view with a lot of details, focusing on skin tones and subtle shading. Include a crowded background., photorealistic oil painting, by charlie bowater, fine details, by wlop, trending on artstation, very detailed.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn, worst quality
+
+[AI Model Parameters]
+Seed Value: 599736193
+Inference Steps: 97
+Guidance Scale: 8.3
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 6.7
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 74.png
+File Format: PNG
+File size: 251488 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 91
+
+[Personal Information]
+Student First Name: Thomas
+Student Last Name: King
+Student ID/Number: 99164165
+Email Address: reginagonzales@example.com
+Username: katelynblake
+Age: 19
+Grade/year level: Freshman
+Class section: A
+School/institution name: Jackson Group
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 16
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 104
+Course Code: ART101
+Professor Name: Dr. White
+Semester: Spring
+Academic Year: 2022-2023
+Room Number: 138
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Guess especially green artist science check.
+Submission Date: 2025-04-12
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A small, cartoon-style house with a red roof and a yellow door in a green field., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 124011909
+Inference Steps: 90
+Guidance Scale: 7.1
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 9.6
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 91.png
+File Format: PNG
+File size: 330494 bytes
+Image dimensions: 512x768

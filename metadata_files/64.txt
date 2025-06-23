@@ -1,0 +1,63 @@
+# 64
+
+[Personal Information]
+Student First Name: Teresa
+Student Last Name: Harris
+Student ID/Number: 77658691
+Email Address: susanstewart@example.net
+Username: mikeoneill
+Age: 18
+Grade/year level: Senior
+Class section: B
+School/institution name: Fuentes, Meyer and Daniels
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 243
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 104
+Course Code: CS101
+Professor Name: Dr. Davis
+Semester: Fall
+Academic Year: 2023-2024
+Room Number: 145
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Tv others weight citizen job success.
+Submission Date: 2025-03-15
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed watercolor drawing of an animal with jungle background., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 728184700
+Inference Steps: 21
+Guidance Scale: 8.5
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 5.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 64.png
+File Format: PNG
+File size: 630338 bytes
+Image dimensions: 512x768

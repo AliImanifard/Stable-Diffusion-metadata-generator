@@ -1,0 +1,63 @@
+# 35
+
+[Personal Information]
+Student First Name: Lori
+Student Last Name: Marks
+Student ID/Number: 40333880
+Email Address: brooksgary@example.org
+Username: helenmorris
+Age: 20
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Turner, Smith and Calhoun
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 624
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 105
+Course Code: CS101
+Professor Name: Dr. Martinez
+Semester: Summer
+Academic Year: 2024-2025
+Room Number: 135
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Culture together light.
+Submission Date: 2025-03-24
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of an animal including color.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 534187118
+Inference Steps: 38
+Guidance Scale: 6.4
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 8.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 35.png
+File Format: PNG
+File size: 597016 bytes
+Image dimensions: 512x768

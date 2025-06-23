@@ -1,0 +1,63 @@
+# 30
+
+[Personal Information]
+Student First Name: Jennifer
+Student Last Name: Houston
+Student ID/Number: 71542770
+Email Address: bcarter@example.net
+Username: richard04
+Age: 24
+Grade/year level: Junior
+Class section: C
+School/institution name: May LLC
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 534
+Operating System: Windows 10
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 104
+Course Code: ART101
+Professor Name: Dr. Wilson
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 132
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Not stop at.
+Submission Date: 2025-03-08
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of a face with no detail, including color
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 589673119
+Inference Steps: 31
+Guidance Scale: 7.0
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.8
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 30.png
+File Format: PNG
+File size: 380639 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 2
+
+[Personal Information]
+Student First Name: Ryan
+Student Last Name: Briggs
+Student ID/Number: 96492946
+Email Address: richardsteele@example.net
+Username: ryan26
+Age: 19
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Torres, Chapman and Smith
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 942
+Operating System: Windows 11
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 101
+Course Code: ART101
+Professor Name: Dr. Smith
+Semester: Spring
+Academic Year: 2024-2025
+Room Number: 185
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: One organization scientist himself.
+Submission Date: 2025-03-22
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Goal: Basic sketches and shading. Create a detailed pencil sketch of an apple, including shading to show its round shape and a highlight on the top-right side.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 747645711
+Inference Steps: 32
+Guidance Scale: 7.1
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 8.6
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 2.png
+File Format: PNG
+File size: 203249 bytes
+Image dimensions: 512x768

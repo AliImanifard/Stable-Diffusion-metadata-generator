@@ -1,0 +1,63 @@
+# 85
+
+[Personal Information]
+Student First Name: Gabriel
+Student Last Name: Johnson
+Student ID/Number: 76464999
+Email Address: karen51@example.org
+Username: gmahoney
+Age: 24
+Grade/year level: Senior
+Class section: B
+School/institution name: Taylor-Hill
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 520
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 101
+Course Code: MATH101
+Professor Name: Dr. Miller
+Semester: Spring
+Academic Year: 2024-2025
+Room Number: 220
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Model assume off large.
+Submission Date: 2025-04-11
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: breathtaking alla prima oil painting, Generate a high-resolution oil painting of a lively, crowded library with at least fifteen people, detailed bookshelves, and warm lighting. Focus on creating a sense of noise and movement., close up, (alla prima style:1.3), oil on linen, painterly oil on canvas, (painterly style:1.3), exquisite composition and lighting, modern painterly masterpiece, by alexi zaitsev, award-winning painterly alla prima oil painting.
+Negative Prompt Text: framed, faded colors, terrible photo, bad composition, hilariously bad drawing, bad photo, bad anatomy, extremely high contrast, worst quality, watermarked signature, bad colors, deformed, amputee, washed out, glare, boring colors, bad crayon drawing
+
+[AI Model Parameters]
+Seed Value: 231918198
+Inference Steps: 47
+Guidance Scale: 8.9
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 8.7
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 85.png
+File Format: PNG
+File size: 401949 bytes
+Image dimensions: 512x768

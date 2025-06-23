@@ -1,0 +1,63 @@
+# 40
+
+[Personal Information]
+Student First Name: Jennifer
+Student Last Name: Adams
+Student ID/Number: 88350549
+Email Address: dgraham@example.net
+Username: michaelmartinez
+Age: 23
+Grade/year level: Sophomore
+Class section: B
+School/institution name: Clark, Wright and Smith
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 138
+Operating System: macOS Catalina
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Computer Science 103
+Course Code: CS101
+Professor Name: Dr. Thomas
+Semester: Spring
+Academic Year: 2022-2023
+Room Number: 257
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Sport though national.
+Submission Date: 2025-03-09
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a charcoal drawing of a face with no detail.
+Negative Prompt Text: NULL
+
+[AI Model Parameters]
+Seed Value: 275020245
+Inference Steps: 51
+Guidance Scale: 9.8
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.7
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 40.png
+File Format: PNG
+File size: 265609 bytes
+Image dimensions: 512x768

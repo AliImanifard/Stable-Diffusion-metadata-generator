@@ -1,0 +1,63 @@
+# 95
+
+[Personal Information]
+Student First Name: Brendan
+Student Last Name: Robinson
+Student ID/Number: 7153151
+Email Address: brownxavier@example.org
+Username: ramireztyler
+Age: 25
+Grade/year level: Freshman
+Class section: C
+School/institution name: Gomez Ltd
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 273
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 103
+Course Code: MATH101
+Professor Name: Dr. Wilson
+Semester: Fall
+Academic Year: 2023-2024
+Room Number: 233
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Language culture expect himself customer sing.
+Submission Date: 2025-03-23
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A surrealist artwork combining dream-like imagery with unexpected juxtapositions, showcasing depth, texture, and a complex play of light and shadow., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 331795414
+Inference Steps: 90
+Guidance Scale: 6.8
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 5.6
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 95.png
+File Format: PNG
+File size: 181286 bytes
+Image dimensions: 512x768

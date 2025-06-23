@@ -1,0 +1,63 @@
+# 73
+
+[Personal Information]
+Student First Name: Erin
+Student Last Name: Parker
+Student ID/Number: 24438453
+Email Address: rojasrebecca@example.com
+Username: bward
+Age: 22
+Grade/year level: Senior
+Class section: B
+School/institution name: Swanson, Bryant and Ibarra
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 113
+Operating System: Windows 11
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 101
+Course Code: CS101
+Professor Name: Dr. Wilson
+Semester: Fall
+Academic Year: 2023-2024
+Room Number: 263
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Factor street body other.
+Submission Date: 2025-03-20
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: breathtaking oil painting, Generate an oil painting of a male face fully different colored clothes in profile view with a lot of details, focusing on skin tones and subtle shading. Include a crowded background., photorealistic oil painting, by charlie bowater, fine details, by wlop, trending on artstation, very detailed.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn, worst quality
+
+[AI Model Parameters]
+Seed Value: 484983975
+Inference Steps: 100
+Guidance Scale: 6.9
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 73.png
+File Format: PNG
+File size: 340913 bytes
+Image dimensions: 512x768

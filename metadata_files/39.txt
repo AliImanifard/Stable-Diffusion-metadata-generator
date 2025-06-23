@@ -1,0 +1,63 @@
+# 39
+
+[Personal Information]
+Student First Name: Sabrina
+Student Last Name: Gould
+Student ID/Number: 1940693
+Email Address: markrowland@example.net
+Username: burnsstephanie
+Age: 19
+Grade/year level: Junior
+Class section: B
+School/institution name: Yang-Henderson
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 364
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: CS101
+Professor Name: Dr. Martinez
+Semester: Summer
+Academic Year: 2024-2025
+Room Number: 199
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Political current card public.
+Submission Date: 2025-03-19
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a charcoal drawing of a simple still life: a bowl with two apples inside. Use bold, dark strokes for shadows and soft strokes for highlights.
+Negative Prompt Text: NULL
+
+[AI Model Parameters]
+Seed Value: 663573640
+Inference Steps: 96
+Guidance Scale: 6.7
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.7
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 39.png
+File Format: PNG
+File size: 312098 bytes
+Image dimensions: 512x768

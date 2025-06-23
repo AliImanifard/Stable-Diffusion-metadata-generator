@@ -1,0 +1,63 @@
+# 43
+
+[Personal Information]
+Student First Name: Amy
+Student Last Name: Edwards
+Student ID/Number: 72244597
+Email Address: michael11@example.com
+Username: marthajohnson
+Age: 25
+Grade/year level: Junior
+Class section: C
+School/institution name: Smith-Davis
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 976
+Operating System: Windows 11
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 101
+Course Code: MATH101
+Professor Name: Dr. Martin
+Semester: Spring
+Academic Year: 2024-2025
+Room Number: 115
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Their current bill.
+Submission Date: 2025-02-26
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a detailed charcoal drawing drawing of an animal.
+Negative Prompt Text: NULL
+
+[AI Model Parameters]
+Seed Value: 264023959
+Inference Steps: 68
+Guidance Scale: 6.7
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 43.png
+File Format: PNG
+File size: 364610 bytes
+Image dimensions: 512x768

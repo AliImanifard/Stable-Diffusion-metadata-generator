@@ -1,0 +1,63 @@
+# 93
+
+[Personal Information]
+Student First Name: Justin
+Student Last Name: Smith
+Student ID/Number: 74129083
+Email Address: tgardner@example.org
+Username: dicksoncarolyn
+Age: 21
+Grade/year level: Freshman
+Class section: C
+School/institution name: Martinez, Hanson and Stevens
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 315
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 103
+Course Code: CS101
+Professor Name: Dr. Rodriguez
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 274
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Only fight red.
+Submission Date: 2025-04-05
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A detailed cartoon character in a superhero costume, with some shading and defined musculature. Action pose., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 326775064
+Inference Steps: 67
+Guidance Scale: 5.5
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 5.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 93.png
+File Format: PNG
+File size: 276497 bytes
+Image dimensions: 512x768

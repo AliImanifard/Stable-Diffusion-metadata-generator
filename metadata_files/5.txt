@@ -1,0 +1,63 @@
+# 5
+
+[Personal Information]
+Student First Name: Cody
+Student Last Name: Jackson
+Student ID/Number: 75591196
+Email Address: kingmichelle@example.com
+Username: andrewsanchez
+Age: 22
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Smith, Diaz and Callahan
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 652
+Operating System: Windows 10
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 105
+Course Code: MATH101
+Professor Name: Dr. White
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 248
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Character offer simple.
+Submission Date: 2025-03-11
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Goal: Basic sketches and shading. Create a detailed pencil sketch of an apple, including shading to show its round shape and a highlight on the top-right side.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 900184041
+Inference Steps: 68
+Guidance Scale: 8.4
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 9.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 5.png
+File Format: PNG
+File size: 318942 bytes
+Image dimensions: 512x768

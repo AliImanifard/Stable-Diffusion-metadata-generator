@@ -1,0 +1,63 @@
+# 32
+
+[Personal Information]
+Student First Name: Chad
+Student Last Name: Schroeder
+Student ID/Number: 86319466
+Email Address: harperchelsea@example.net
+Username: benjamindrake
+Age: 18
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Lynch LLC
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 985
+Operating System: Windows 11
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 102
+Course Code: MATH101
+Professor Name: Dr. White
+Semester: Spring
+Academic Year: 2022-2023
+Room Number: 271
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: According arrive into out campaign.
+Submission Date: 2025-02-27
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of a face with a lot of details including color and focusing on proportions: eyes, nose, mouth, and ears. Include light shading to define the facial structure,
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 158629141
+Inference Steps: 32
+Guidance Scale: 6.8
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.6
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 32.png
+File Format: PNG
+File size: 390378 bytes
+Image dimensions: 512x768

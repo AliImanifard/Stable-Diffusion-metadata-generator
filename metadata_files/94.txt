@@ -1,0 +1,63 @@
+# 94
+
+[Personal Information]
+Student First Name: Ruth
+Student Last Name: Horn
+Student ID/Number: 99016295
+Email Address: andrewlewis@example.net
+Username: balexander
+Age: 24
+Grade/year level: Sophomore
+Class section: B
+School/institution name: Perez-Williams
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 419
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 105
+Course Code: MATH101
+Professor Name: Dr. Anderson
+Semester: Summer
+Academic Year: 2022-2023
+Room Number: 137
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Good scene kid.
+Submission Date: 2025-03-24
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A detailed cartoon character in a superhero costume, with some shading and defined musculature. Action pose., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 236488264
+Inference Steps: 21
+Guidance Scale: 5.7
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 7.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 94.png
+File Format: PNG
+File size: 220336 bytes
+Image dimensions: 512x768

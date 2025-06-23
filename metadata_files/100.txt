@@ -1,0 +1,63 @@
+# 100
+
+[Personal Information]
+Student First Name: Willie
+Student Last Name: Durham
+Student ID/Number: 70311681
+Email Address: jennifergallagher@example.org
+Username: ledwards
+Age: 21
+Grade/year level: Junior
+Class section: C
+School/institution name: White-Harrington
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 670
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: ART101
+Professor Name: Dr. Martin
+Semester: Spring
+Academic Year: 2022-2023
+Room Number: 124
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Why size road former attorney.
+Submission Date: 2025-04-08
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A surrealist artwork combining dream-like imagery with unexpected juxtapositions, showcasing depth, texture, and a complex play of light and shadow., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 523337654
+Inference Steps: 96
+Guidance Scale: 8.7
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 100.png
+File Format: PNG
+File size: 212981 bytes
+Image dimensions: 512x768

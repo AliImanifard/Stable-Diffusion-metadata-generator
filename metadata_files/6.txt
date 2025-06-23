@@ -1,0 +1,63 @@
+# 6
+
+[Personal Information]
+Student First Name: James
+Student Last Name: Warren
+Student ID/Number: 1926563
+Email Address: johnsmith@example.org
+Username: victoriathomas
+Age: 18
+Grade/year level: Sophomore
+Class section: B
+School/institution name: Roberts-Cole
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 997
+Operating System: macOS Catalina
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 101
+Course Code: CS101
+Professor Name: Dr. Garcia
+Semester: Fall
+Academic Year: 2022-2023
+Room Number: 113
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Move price employee television color.
+Submission Date: 2025-03-20
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Goal: Basic sketches and shading. Create a detailed pencil sketch of an apple, including shading to show its round shape and a highlight on the top-right side.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 242222116
+Inference Steps: 81
+Guidance Scale: 8.0
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.2
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 6.png
+File Format: PNG
+File size: 354433 bytes
+Image dimensions: 512x768

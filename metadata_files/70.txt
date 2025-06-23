@@ -1,0 +1,63 @@
+# 70
+
+[Personal Information]
+Student First Name: Gilbert
+Student Last Name: Tyler
+Student ID/Number: 9455260
+Email Address: bryantrhonda@example.org
+Username: nealmichelle
+Age: 25
+Grade/year level: Senior
+Class section: B
+School/institution name: Rivera-Graham
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 947
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 105
+Course Code: MATH101
+Professor Name: Dr. Martin
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 291
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Produce first from wall lead attention.
+Submission Date: 2025-04-07
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: (Create an oil painting of a ripe orange fruit, including its texture and a highlight on the top-right. Use warm colors for the fruit and a neutral background.) (Oil painting) (by Jean-François Millet), (by Gustave Courbet), (by Jules Breton), close up
+Negative Prompt Text: frame, (badly drawn hands), extra limbs, extra fingers, bad anatomy
+
+[AI Model Parameters]
+Seed Value: 706312400
+Inference Steps: 79
+Guidance Scale: 5.4
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 70.png
+File Format: PNG
+File size: 342175 bytes
+Image dimensions: 512x768

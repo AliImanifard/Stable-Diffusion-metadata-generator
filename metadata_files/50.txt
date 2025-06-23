@@ -1,0 +1,63 @@
+# 50
+
+[Personal Information]
+Student First Name: Tracy
+Student Last Name: Lee
+Student ID/Number: 99345104
+Email Address: carlsonethan@example.com
+Username: julie90
+Age: 24
+Grade/year level: Freshman
+Class section: C
+School/institution name: King-Jacobson
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 251
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 102
+Course Code: CS101
+Professor Name: Dr. Wilson
+Semester: Fall
+Academic Year: 2022-2023
+Room Number: 143
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Especially available animal class head.
+Submission Date: 2025-03-28
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a watercolor drawing of a simple still life: a bowl with two apples inside. Use bold, dark strokes for shadows and soft strokes for highlights., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 676733543
+Inference Steps: 55
+Guidance Scale: 6.1
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 5.0
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 50.png
+File Format: PNG
+File size: 416732 bytes
+Image dimensions: 512x768

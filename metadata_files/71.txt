@@ -1,0 +1,63 @@
+# 71
+
+[Personal Information]
+Student First Name: Christopher
+Student Last Name: Stewart
+Student ID/Number: 31694010
+Email Address: uharris@example.com
+Username: theresa49
+Age: 18
+Grade/year level: Junior
+Class section: B
+School/institution name: York LLC
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 213
+Operating System: Windows 11
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Computer Science 104
+Course Code: ART101
+Professor Name: Dr. Wilson
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 179
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Amount outside lose collection then sort.
+Submission Date: 2025-02-25
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: breathtaking alla prima oil painting, Create an oil painting of a simple in front view human face with fully clothes and in no detail., close up, (alla prima style:1.3), oil on linen, painterly oil on canvas, (painterly style:1.3), exquisite composition and lighting, modern painterly masterpiece, by alexi zaitsev, award-winning painterly alla prima oil painting.
+Negative Prompt Text: detail, framed, faded colors, terrible photo, bad composition, hilariously bad drawing, bad photo, bad anatomy, extremely high contrast, worst quality, watermarked signature, bad colors, deformed, amputee, washed out, glare, boring colors, bad crayon drawing
+
+[AI Model Parameters]
+Seed Value: 537234425
+Inference Steps: 39
+Guidance Scale: 6.2
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 6.2
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 71.png
+File Format: PNG
+File size: 234804 bytes
+Image dimensions: 512x768

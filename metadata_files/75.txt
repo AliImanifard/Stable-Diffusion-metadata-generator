@@ -1,0 +1,63 @@
+# 75
+
+[Personal Information]
+Student First Name: Emily
+Student Last Name: White
+Student ID/Number: 10314650
+Email Address: rhonda50@example.org
+Username: baileyjeffrey
+Age: 21
+Grade/year level: Junior
+Class section: B
+School/institution name: Richardson-Sanchez
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 107
+Operating System: Windows 11
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 105
+Course Code: MATH101
+Professor Name: Dr. Rodriguez
+Semester: Summer
+Academic Year: 2024-2025
+Room Number: 290
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Management tax thing son.
+Submission Date: 2025-03-18
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: breathtaking oil painting, Generate an oil painting of a male face fully different colored clothes in profile view with a lot of details, focusing on skin tones and subtle shading. Include a crowded background., photorealistic oil painting, by charlie bowater, fine details, by wlop, trending on artstation, very detailed.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn, worst quality
+
+[AI Model Parameters]
+Seed Value: 199714205
+Inference Steps: 54
+Guidance Scale: 9.3
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 5.7
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 75.png
+File Format: PNG
+File size: 297529 bytes
+Image dimensions: 512x768

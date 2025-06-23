@@ -1,0 +1,63 @@
+# 3
+
+[Personal Information]
+Student First Name: Kevin
+Student Last Name: Williams
+Student ID/Number: 27226301
+Email Address: jorgejones@example.com
+Username: zmiller
+Age: 21
+Grade/year level: Junior
+Class section: B
+School/institution name: Tran, Hernandez and Hernandez
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 528
+Operating System: macOS Catalina
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 101
+Course Code: CS101
+Professor Name: Dr. Jackson
+Semester: Summer
+Academic Year: 2024-2025
+Room Number: 189
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Experience hope peace eight.
+Submission Date: 2025-03-18
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Goal: Basic sketches and shading. Create a detailed pencil sketch of an apple, including shading to show its round shape and a highlight on the top-right side.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 883558260
+Inference Steps: 69
+Guidance Scale: 9.3
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 7.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 3.png
+File Format: PNG
+File size: 288517 bytes
+Image dimensions: 512x768

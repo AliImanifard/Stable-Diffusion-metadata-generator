@@ -1,0 +1,63 @@
+# 4
+
+[Personal Information]
+Student First Name: Douglas
+Student Last Name: Hunt
+Student ID/Number: 70616722
+Email Address: mccarthymichelle@example.org
+Username: nielsenangela
+Age: 22
+Grade/year level: Junior
+Class section: C
+School/institution name: Kelley and Sons
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 500
+Operating System: macOS Catalina
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Computer Science 102
+Course Code: ART101
+Professor Name: Dr. Jackson
+Semester: Fall
+Academic Year: 2022-2023
+Room Number: 204
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Manager admit work statement one indeed.
+Submission Date: 2025-02-25
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Goal: Basic sketches and shading. Create a detailed pencil sketch of an apple, including shading to show its round shape and a highlight on the top-right side.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 899084719
+Inference Steps: 60
+Guidance Scale: 9.3
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 9.9
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 4.png
+File Format: PNG
+File size: 349652 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 29
+
+[Personal Information]
+Student First Name: Vernon
+Student Last Name: Bell
+Student ID/Number: 93174605
+Email Address: logansantiago@example.com
+Username: terrilee
+Age: 24
+Grade/year level: Junior
+Class section: B
+School/institution name: Allen-Miller
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 406
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 103
+Course Code: CS101
+Professor Name: Dr. Rodriguez
+Semester: Fall
+Academic Year: 2022-2023
+Room Number: 171
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Sell miss growth almost improve people.
+Submission Date: 2025-04-01
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of a fruit, including color.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 509754776
+Inference Steps: 95
+Guidance Scale: 6.9
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 8.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 29.png
+File Format: PNG
+File size: 379386 bytes
+Image dimensions: 512x768

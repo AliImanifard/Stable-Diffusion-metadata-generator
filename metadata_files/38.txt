@@ -1,0 +1,63 @@
+# 38
+
+[Personal Information]
+Student First Name: Elizabeth
+Student Last Name: Hernandez
+Student ID/Number: 93434741
+Email Address: thomasmorris@example.com
+Username: runderwood
+Age: 19
+Grade/year level: Senior
+Class section: C
+School/institution name: Hernandez, Ross and Taylor
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 648
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 101
+Course Code: ART101
+Professor Name: Dr. Miller
+Semester: Spring
+Academic Year: 2022-2023
+Room Number: 240
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Somebody they method conference.
+Submission Date: 2025-03-17
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a charcoal drawing of a simple still life: a bowl with two apples inside. Use bold, dark strokes for shadows and soft strokes for highlights.
+Negative Prompt Text: NULL
+
+[AI Model Parameters]
+Seed Value: 274709134
+Inference Steps: 67
+Guidance Scale: 5.6
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 7.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 38.png
+File Format: PNG
+File size: 238415 bytes
+Image dimensions: 512x768

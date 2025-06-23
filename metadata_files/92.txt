@@ -1,0 +1,63 @@
+# 92
+
+[Personal Information]
+Student First Name: Robert
+Student Last Name: Lyons
+Student ID/Number: 44457647
+Email Address: lmiller@example.net
+Username: patrick31
+Age: 18
+Grade/year level: Freshman
+Class section: C
+School/institution name: Johnson LLC
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 358
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 101
+Course Code: CS101
+Professor Name: Dr. Clark
+Semester: Spring
+Academic Year: 2024-2025
+Room Number: 239
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Assume the feel.
+Submission Date: 2025-03-28
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A small, cartoon-style house with a red roof and a yellow door in a green field., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 706366641
+Inference Steps: 74
+Guidance Scale: 9.1
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 5.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 92.png
+File Format: PNG
+File size: 337430 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 47
+
+[Personal Information]
+Student First Name: John
+Student Last Name: Riley
+Student ID/Number: 24488450
+Email Address: jroberts@example.org
+Username: stephanienicholson
+Age: 18
+Grade/year level: Senior
+Class section: A
+School/institution name: Rodriguez, Bowers and Cook
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 108
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: ART101
+Professor Name: Dr. Harris
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 279
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Reason drive single too.
+Submission Date: 2025-03-27
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed charcoal sketch of a library scene, adding facial expressions, clothing details, and interactions between people.
+Negative Prompt Text: NULL
+
+[AI Model Parameters]
+Seed Value: 762858068
+Inference Steps: 86
+Guidance Scale: 5.2
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 6.3
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 47.png
+File Format: PNG
+File size: 360762 bytes
+Image dimensions: 512x768

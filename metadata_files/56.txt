@@ -1,0 +1,63 @@
+# 56
+
+[Personal Information]
+Student First Name: Ryan
+Student Last Name: Lee
+Student ID/Number: 46165852
+Email Address: jeffrey13@example.com
+Username: ashley84
+Age: 25
+Grade/year level: Freshman
+Class section: A
+School/institution name: Miller, Mckinney and Paul
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 644
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 102
+Course Code: MATH101
+Professor Name: Dr. Jackson
+Semester: Spring
+Academic Year: 2024-2025
+Room Number: 179
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Board past bring decision beat.
+Submission Date: 2025-03-22
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a watercolor drawing of a face with no detail., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 305052558
+Inference Steps: 65
+Guidance Scale: 6.3
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 6.3
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 56.png
+File Format: PNG
+File size: 441120 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 65
+
+[Personal Information]
+Student First Name: Joanna
+Student Last Name: Orr
+Student ID/Number: 56304109
+Email Address: rachel32@example.org
+Username: sandersmeagan
+Age: 22
+Grade/year level: Senior
+Class section: C
+School/institution name: Horn-Rodriguez
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 757
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 101
+Course Code: MATH101
+Professor Name: Dr. Clark
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 192
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Show treatment gun half national.
+Submission Date: 2025-04-02
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed watercolor drawing of an animal with jungle background., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 487302718
+Inference Steps: 47
+Guidance Scale: 9.5
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 6.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 65.png
+File Format: PNG
+File size: 527547 bytes
+Image dimensions: 512x768

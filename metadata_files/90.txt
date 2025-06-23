@@ -1,0 +1,63 @@
+# 90
+
+[Personal Information]
+Student First Name: Shawn
+Student Last Name: Robinson
+Student ID/Number: 95659267
+Email Address: robertrobinson@example.net
+Username: dennisclarke
+Age: 20
+Grade/year level: Junior
+Class section: A
+School/institution name: Jenkins Ltd
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 294
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 103
+Course Code: CS101
+Professor Name: Dr. Jackson
+Semester: Fall
+Academic Year: 2022-2023
+Room Number: 197
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Kitchen charge brother lose party.
+Submission Date: 2025-03-17
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A small, cartoon-style house with a red roof and a yellow door in a green field., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 831021920
+Inference Steps: 43
+Guidance Scale: 9.0
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 9.1
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 90.png
+File Format: PNG
+File size: 245880 bytes
+Image dimensions: 512x768

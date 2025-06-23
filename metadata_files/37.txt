@@ -1,0 +1,63 @@
+# 37
+
+[Personal Information]
+Student First Name: Pamela
+Student Last Name: Duran
+Student ID/Number: 73807725
+Email Address: vanessa42@example.com
+Username: ryan81
+Age: 24
+Grade/year level: Sophomore
+Class section: B
+School/institution name: Schmidt, Harris and Mendoza
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 618
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 105
+Course Code: ART101
+Professor Name: Dr. Robinson
+Semester: Summer
+Academic Year: 2022-2023
+Room Number: 162
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Future group that learn become nothing.
+Submission Date: 2025-04-01
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a colored pencil of a small section of a library, featuring two people sitting at a table and one person walking by. Include bookshelves in the background.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 343068726
+Inference Steps: 68
+Guidance Scale: 6.5
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 6.8
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 37.png
+File Format: PNG
+File size: 516219 bytes
+Image dimensions: 512x768

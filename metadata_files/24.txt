@@ -1,0 +1,63 @@
+# 24
+
+[Personal Information]
+Student First Name: Tracy
+Student Last Name: Cole
+Student ID/Number: 66192045
+Email Address: rebeccamiller@example.net
+Username: dreese
+Age: 23
+Grade/year level: Senior
+Class section: C
+School/institution name: Garcia Ltd
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 879
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Computer Science 102
+Course Code: MATH101
+Professor Name: Dr. Miller
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 103
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Book class sport fine still more.
+Submission Date: 2025-04-10
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: ((black and white pencil drawing)), Generate a pencil sketch of a library with five people: two sitting at a table, one standing by a bookshelf, and two walking in the background. Goal: Train to generate complex, crowded scenes. , black and white, breathtaking pencil illustration, highly detailed, 4k, (textured paper), pencil texture, sketch
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 570553429
+Inference Steps: 56
+Guidance Scale: 7.3
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.8
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 24.png
+File Format: PNG
+File size: 451905 bytes
+Image dimensions: 512x768

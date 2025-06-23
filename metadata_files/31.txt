@@ -1,0 +1,63 @@
+# 31
+
+[Personal Information]
+Student First Name: Robert
+Student Last Name: Melendez
+Student ID/Number: 13813130
+Email Address: shannonandrews@example.org
+Username: allison92
+Age: 22
+Grade/year level: Senior
+Class section: C
+School/institution name: Herring, White and Bradford
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 94
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 104
+Course Code: ART101
+Professor Name: Dr. Thomas
+Semester: Fall
+Academic Year: 2022-2023
+Room Number: 212
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Final modern approach actually.
+Submission Date: 2025-02-27
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of a face with no detail, including color
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 692366434
+Inference Steps: 50
+Guidance Scale: 7.8
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 5.0
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 31.png
+File Format: PNG
+File size: 449065 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 67
+
+[Personal Information]
+Student First Name: Paul
+Student Last Name: Marsh
+Student ID/Number: 88752982
+Email Address: fhaynes@example.org
+Username: jasonschmitt
+Age: 25
+Grade/year level: Senior
+Class section: A
+School/institution name: Hill Group
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 886
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 103
+Course Code: CS101
+Professor Name: Dr. Davis
+Semester: Spring
+Academic Year: 2022-2023
+Room Number: 127
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Ago worker successful performance.
+Submission Date: 2025-03-30
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed watercolor drawing of a library scene, adding facial expressions, clothing details, and interactions between people., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper 
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 524827944
+Inference Steps: 99
+Guidance Scale: 6.6
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 67.png
+File Format: PNG
+File size: 624450 bytes
+Image dimensions: 512x768

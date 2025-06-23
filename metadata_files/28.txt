@@ -1,0 +1,63 @@
+# 28
+
+[Personal Information]
+Student First Name: Tamara
+Student Last Name: Osborn
+Student ID/Number: 40861670
+Email Address: ksmith@example.net
+Username: erik63
+Age: 22
+Grade/year level: Freshman
+Class section: B
+School/institution name: Patterson, Hernandez and Salinas
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 15
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 101
+Course Code: MATH101
+Professor Name: Dr. Thomas
+Semester: Spring
+Academic Year: 2023-2024
+Room Number: 147
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Factor school book majority style.
+Submission Date: 2025-04-10
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of a fruit, including color.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 345160769
+Inference Steps: 20
+Guidance Scale: 8.0
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 9.3
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 28.png
+File Format: PNG
+File size: 414912 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 33
+
+[Personal Information]
+Student First Name: Emily
+Student Last Name: Reese
+Student ID/Number: 68449917
+Email Address: timothy03@example.net
+Username: qbrown
+Age: 21
+Grade/year level: Senior
+Class section: B
+School/institution name: Ross-Forbes
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 292
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Computer Science 102
+Course Code: MATH101
+Professor Name: Dr. Smith
+Semester: Fall
+Academic Year: 2023-2024
+Room Number: 228
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: When film guy fight yeah.
+Submission Date: 2025-03-24
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a detailed colored pencil drawing of a face with a lot of details including color and focusing on proportions: eyes, nose, mouth, and ears. Include light shading to define the facial structure,
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 643368332
+Inference Steps: 83
+Guidance Scale: 6.6
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 6.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 33.png
+File Format: PNG
+File size: 414162 bytes
+Image dimensions: 512x768

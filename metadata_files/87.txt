@@ -1,0 +1,63 @@
+# 87
+
+[Personal Information]
+Student First Name: Christopher
+Student Last Name: Kelly
+Student ID/Number: 93452748
+Email Address: amandadunlap@example.com
+Username: floydbobby
+Age: 19
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Martin-Rodriguez
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 391
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 105
+Course Code: ART101
+Professor Name: Dr. Wilson
+Semester: Summer
+Academic Year: 2022-2023
+Room Number: 212
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Which benefit term shoulder lawyer when.
+Submission Date: 2025-04-07
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: breathtaking alla prima oil painting, Generate a high-resolution oil painting of a lively, crowded library with at least fifteen people, detailed bookshelves, and warm lighting. Focus on creating a sense of noise and movement., close up, (alla prima style:1.3), oil on linen, painterly oil on canvas, (painterly style:1.3), exquisite composition and lighting, modern painterly masterpiece, by alexi zaitsev, award-winning painterly alla prima oil painting.
+Negative Prompt Text: framed, faded colors, terrible photo, bad composition, hilariously bad drawing, bad photo, bad anatomy, extremely high contrast, worst quality, watermarked signature, bad colors, deformed, amputee, washed out, glare, boring colors, bad crayon drawing
+
+[AI Model Parameters]
+Seed Value: 782372776
+Inference Steps: 42
+Guidance Scale: 7.3
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 9.0
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 87.png
+File Format: PNG
+File size: 376369 bytes
+Image dimensions: 512x768

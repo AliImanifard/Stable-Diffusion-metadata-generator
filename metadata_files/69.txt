@@ -1,0 +1,63 @@
+# 69
+
+[Personal Information]
+Student First Name: Cody
+Student Last Name: Zuniga
+Student ID/Number: 44881352
+Email Address: andrewwhitaker@example.com
+Username: alicia68
+Age: 23
+Grade/year level: Senior
+Class section: A
+School/institution name: Walker, Zimmerman and Monroe
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 703
+Operating System: Windows 10
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: CS101
+Professor Name: Dr. Martinez
+Semester: Summer
+Academic Year: 2022-2023
+Room Number: 193
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Office whatever beautiful break force direction.
+Submission Date: 2025-03-31
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: (Create an oil painting of a ripe orange fruit, including its texture and a highlight on the top-right. Use warm colors for the fruit and a neutral background.) (Oil painting) (by Jean-François Millet), (by Gustave Courbet), (by Jules Breton), close up
+Negative Prompt Text: frame, (badly drawn hands), extra limbs, extra fingers, bad anatomy
+
+[AI Model Parameters]
+Seed Value: 351143945
+Inference Steps: 25
+Guidance Scale: 6.4
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 6.4
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 69.png
+File Format: PNG
+File size: 398432 bytes
+Image dimensions: 512x768

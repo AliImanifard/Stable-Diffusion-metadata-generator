@@ -1,0 +1,63 @@
+# 99
+
+[Personal Information]
+Student First Name: Christopher
+Student Last Name: Nelson
+Student ID/Number: 85186818
+Email Address: matthew58@example.org
+Username: gregory85
+Age: 25
+Grade/year level: Junior
+Class section: A
+School/institution name: Mclaughlin, Lester and Tanner
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 134
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 103
+Course Code: MATH101
+Professor Name: Dr. Rodriguez
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 144
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Stage its teacher.
+Submission Date: 2025-03-25
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A surrealist artwork combining dream-like imagery with unexpected juxtapositions, showcasing depth, texture, and a complex play of light and shadow., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 628730674
+Inference Steps: 82
+Guidance Scale: 5.9
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 6.6
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 99.png
+File Format: PNG
+File size: 200983 bytes
+Image dimensions: 512x768

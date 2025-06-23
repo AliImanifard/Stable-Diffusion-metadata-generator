@@ -1,0 +1,63 @@
+# 55
+
+[Personal Information]
+Student First Name: David
+Student Last Name: Morris
+Student ID/Number: 23332051
+Email Address: zreed@example.org
+Username: martin19
+Age: 20
+Grade/year level: Junior
+Class section: B
+School/institution name: Mccarthy-Kim
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 637
+Operating System: Windows 10
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 101
+Course Code: CS101
+Professor Name: Dr. Martin
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 162
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Black bill black follow.
+Submission Date: 2025-03-10
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a watercolor drawing of a face with no detail., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 186139451
+Inference Steps: 58
+Guidance Scale: 6.6
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 8.2
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 55.png
+File Format: PNG
+File size: 416908 bytes
+Image dimensions: 512x768

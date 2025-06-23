@@ -1,0 +1,63 @@
+# 66
+
+[Personal Information]
+Student First Name: Anthony
+Student Last Name: Price
+Student ID/Number: 99219542
+Email Address: dennis94@example.org
+Username: richard66
+Age: 21
+Grade/year level: Senior
+Class section: C
+School/institution name: White PLC
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 562
+Operating System: Windows 11
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: ART101
+Professor Name: Dr. Taylor
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 276
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Power animal edge pull national.
+Submission Date: 2025-03-31
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed watercolor drawing of a library scene, adding facial expressions, clothing details, and interactions between people., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper 
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 474569376
+Inference Steps: 25
+Guidance Scale: 6.3
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 5.0
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 66.png
+File Format: PNG
+File size: 637413 bytes
+Image dimensions: 512x768

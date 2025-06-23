@@ -1,0 +1,63 @@
+# 11
+
+[Personal Information]
+Student First Name: Autumn
+Student Last Name: Jensen
+Student ID/Number: 67950644
+Email Address: patricia75@example.net
+Username: rogersamanda
+Age: 21
+Grade/year level: Senior
+Class section: B
+School/institution name: Green-Massey
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 570
+Operating System: macOS Catalina
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 104
+Course Code: CS101
+Professor Name: Dr. Wilson
+Semester: Summer
+Academic Year: 2022-2023
+Room Number: 261
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Itself especially area often data civil.
+Submission Date: 2025-03-18
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: ((black and white pencil drawing)), Draw a front-view pencil sketch of a human face, focusing on proportions: eyes, nose, mouth, and ears. Include light shading to define the facial structure. Goal: Basic sketches and shading., black and white, breathtaking pencil illustration, highly detailed, 4k, (textured paper), pencil texture, sketch
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 430508696
+Inference Steps: 25
+Guidance Scale: 7.4
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 7.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 11.png
+File Format: PNG
+File size: 201989 bytes
+Image dimensions: 512x768

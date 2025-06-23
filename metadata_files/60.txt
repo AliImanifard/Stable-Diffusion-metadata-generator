@@ -1,0 +1,63 @@
+# 60
+
+[Personal Information]
+Student First Name: Daniel
+Student Last Name: Joseph
+Student ID/Number: 88412486
+Email Address: robert29@example.net
+Username: richardwalsh
+Age: 20
+Grade/year level: Freshman
+Class section: C
+School/institution name: Hoover and Sons
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 281
+Operating System: Windows 10
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Mathematics 101
+Course Code: MATH101
+Professor Name: Dr. Thomas
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 134
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Movie which know meet mind.
+Submission Date: 2025-03-20
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a watercolor drawing of a face with no detail., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 340373993
+Inference Steps: 47
+Guidance Scale: 9.4
+Image Width: 512
+Image Height: 768
+Sampler: Euler a
+CFG Scale: 7.0
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 60.png
+File Format: PNG
+File size: 397474 bytes
+Image dimensions: 512x768

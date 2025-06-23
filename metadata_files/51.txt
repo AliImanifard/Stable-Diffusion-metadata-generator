@@ -1,0 +1,63 @@
+# 51
+
+[Personal Information]
+Student First Name: Adam
+Student Last Name: Ingram
+Student ID/Number: 21557544
+Email Address: tammywinters@example.net
+Username: jperez
+Age: 18
+Grade/year level: Sophomore
+Class section: A
+School/institution name: Stewart, Garrison and Baxter
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 223
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Art 105
+Course Code: ART101
+Professor Name: Dr. Thompson
+Semester: Summer
+Academic Year: 2023-2024
+Room Number: 183
+
+[Technical/AI Model Information]
+UI used: Krita
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Wish nor test.
+Submission Date: 2025-04-01
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Generate a watercolor drawing of a simple still life: a bowl with two apples inside. Use bold, dark strokes for shadows and soft strokes for highlights., (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 263331891
+Inference Steps: 78
+Guidance Scale: 8.8
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 9.6
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 51.png
+File Format: PNG
+File size: 431777 bytes
+Image dimensions: 512x768

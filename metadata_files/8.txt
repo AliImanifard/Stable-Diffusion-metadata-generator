@@ -1,0 +1,63 @@
+# 8
+
+[Personal Information]
+Student First Name: Amy
+Student Last Name: Ellis
+Student ID/Number: 28469270
+Email Address: campbellnicholas@example.com
+Username: cristianwalker
+Age: 18
+Grade/year level: Senior
+Class section: A
+School/institution name: Ramsey, Green and Gray
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 265
+Operating System: macOS Catalina
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 105
+Course Code: CS101
+Professor Name: Dr. Robinson
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 211
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Else partner play.
+Submission Date: 2025-03-21
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Goal: Basic sketches and shading. Create a detailed pencil sketch of an pineapple with no color, including shading to show its round shape and a highlight on the top-right side.
+Negative Prompt Text: stationary, holding pen, holding paper, low-quality, deformed, photo, 3D render, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 528313952
+Inference Steps: 74
+Guidance Scale: 7.3
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 7.9
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 8.png
+File Format: PNG
+File size: 352271 bytes
+Image dimensions: 512x768

@@ -1,0 +1,63 @@
+# 61
+
+[Personal Information]
+Student First Name: Mackenzie
+Student Last Name: Ellis
+Student ID/Number: 49184923
+Email Address: tracy00@example.net
+Username: fhiggins
+Age: 20
+Grade/year level: Freshman
+Class section: A
+School/institution name: Cruz-Chen
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 725
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Computer Science 102
+Course Code: MATH101
+Professor Name: Dr. Clark
+Semester: Fall
+Academic Year: 2024-2025
+Room Number: 274
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: GIMP
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Class under audience hospital particular professional.
+Submission Date: 2025-03-06
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: Create a detailed watercolor drawing drawing of a face with a lot of details focusing on proportions: eyes, nose, mouth, and ears. Include light shading to define the facial structure. , (watercolor), high resolution, intricate details, 4k, wallpaper, concept art, watercolor on textured paper.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 307331515
+Inference Steps: 63
+Guidance Scale: 7.9
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 8.9
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 61.png
+File Format: PNG
+File size: 360092 bytes
+Image dimensions: 512x768

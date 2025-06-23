@@ -1,0 +1,63 @@
+# 46
+
+[Personal Information]
+Student First Name: Catherine
+Student Last Name: Bridges
+Student ID/Number: 59404635
+Email Address: kimberlyhall@example.com
+Username: mckenzie70
+Age: 25
+Grade/year level: Senior
+Class section: C
+School/institution name: Bailey Inc
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 947
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 103
+Course Code: ART101
+Professor Name: Dr. Rodriguez
+Semester: Spring
+Academic Year: 2023-2024
+Room Number: 249
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Photoshop
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: Whose check wind.
+Submission Date: 2025-04-05
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: Create a detailed charcoal sketch of a library scene, adding facial expressions, clothing details, and interactions between people.
+Negative Prompt Text: NULL
+
+[AI Model Parameters]
+Seed Value: 496219129
+Inference Steps: 55
+Guidance Scale: 6.3
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.3
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 46.png
+File Format: PNG
+File size: 333971 bytes
+Image dimensions: 512x768

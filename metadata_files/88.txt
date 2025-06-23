@@ -1,0 +1,63 @@
+# 88
+
+[Personal Information]
+Student First Name: Thomas
+Student Last Name: Jackson
+Student ID/Number: 35176657
+Email Address: pattersonbenjamin@example.com
+Username: christopherlewis
+Age: 19
+Grade/year level: Freshman
+Class section: C
+School/institution name: Brewer-Snyder
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 306
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-03-13
+Time of Creation: 02:26
+Class Name: Mathematics 103
+Course Code: MATH101
+Professor Name: Dr. White
+Semester: Spring
+Academic Year: 2023-2024
+Room Number: 254
+
+[Technical/AI Model Information]
+UI used: Photoshop
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: How at center executive green.
+Submission Date: 2025-03-23
+Submission Time: 02:26
+
+[Prompt to LLM]
+Prompt Text: A simple, cartoon-style yellow sun with a smiley face., breathtaking digital art, trending on artstation, by atey ghailan, by greg rutkowski, by greg tocchini, by james gilleard, 8k, high resolution, best quality
+Negative Prompt Text: low-quality, deformed, signature watermark text, poorly drawn
+
+[AI Model Parameters]
+Seed Value: 885663973
+Inference Steps: 87
+Guidance Scale: 6.5
+Image Width: 512
+Image Height: 768
+Sampler: PLMS
+CFG Scale: 7.5
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 2
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 88.png
+File Format: PNG
+File size: 271445 bytes
+Image dimensions: 512x768

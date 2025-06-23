@@ -1,0 +1,63 @@
+# 76
+
+[Personal Information]
+Student First Name: Samuel
+Student Last Name: Rhodes
+Student ID/Number: 63010133
+Email Address: greenechad@example.com
+Username: shannonmorales
+Age: 20
+Grade/year level: Senior
+Class section: B
+School/institution name: Campbell, Hughes and Pearson
+
+[Computer Spatiotemporal Information]
+Workstation ID/Number: 152
+Operating System: Ubuntu 20.04
+Date of Creation: 2025-02-24
+Time of Creation: 01:25
+Class Name: Art 104
+Course Code: ART101
+Professor Name: Dr. Johnson
+Semester: Summer
+Academic Year: 2022-2023
+Room Number: 285
+
+[Technical/AI Model Information]
+UI used: GIMP
+[Software Information]
+Drawing Software Name: Krita
+
+AI Model Name: Stable Diffusion
+AI Model Provider: Stability AI
+
+[Generative Educational Data]
+Assignment Name: How material popular night court than.
+Submission Date: 2025-03-10
+Submission Time: 01:25
+
+[Prompt to LLM]
+Prompt Text: breathtaking oil painting, Generate an oil painting of a male face fully different colored clothes in profile view with a lot of details, focusing on skin tones and subtle shading. Include a crowded background., photorealistic oil painting, by charlie bowater, fine details, by wlop, trending on artstation, very detailed.
+Negative Prompt Text: low-quality, deformed, text, poorly drawn, worst quality
+
+[AI Model Parameters]
+Seed Value: 229576638
+Inference Steps: 80
+Guidance Scale: 6.7
+Image Width: 512
+Image Height: 768
+Sampler: DDIM
+CFG Scale: 5.9
+Model Name: Stable Diffusion
+Model Version: 2.1
+VAE: vae-ft-mse-840000-ema-pruned
+Clip Skip: 1
+defaultCommentOptions width: 100%
+defaultCommentOptions height: 400
+guidanceScale=7
+
+[Image File Metadata]
+File Name: 76.png
+File Format: PNG
+File size: 284233 bytes
+Image dimensions: 512x768
